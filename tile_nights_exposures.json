@@ -35,4 +35,22 @@
       }
     ]
   }
+  {
+    tileid:080607,
+    targets:"QSO+LRG",
+    nights:[
+      {
+        nightid:20201214,
+        expid:[67744, 67765, 67766, 67767, 67768]
+      },
+      {
+        nightid:20201215,
+        expid:[]
+      },
+      {
+        nightid:20201216,
+        expid:[]
+      }
+    ]
+  }
 ]
