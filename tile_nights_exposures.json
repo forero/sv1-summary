@@ -22,10 +22,12 @@
     targets:"ELG",
     nights:[
       {
-        nightid:20201214
+        nightid:20201214,
+        expid:[67733]
       },
       {
-        nightid:20201215
+        nightid:20201215,
+        expid:[67968, 67969, 67970, 67971]
       },
       {
         nightid:20201216
