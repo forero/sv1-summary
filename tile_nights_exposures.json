@@ -1,6 +1,11 @@
 {
   tileid:80605,
+  targets:"QSO+LRG"
   nights:[
+    {
+      nightid:20201214,
+      exposures:[67710,67711,67712,67713]
+    },
     {
       nightid:20201215,
       exposures:[67972, 67973, 67974, 67975, 67987]
