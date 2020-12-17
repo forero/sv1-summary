@@ -1,6 +1,6 @@
 {
   tileid:80605,
-  targets:"QSO+LRG"
+  targets:"QSO+LRG",
   nights:[
     {
       nightid:20201214,
