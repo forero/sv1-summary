@@ -2,7 +2,8 @@
   tileid:80605,
   nights:[
     {
-      nightid:,
+      nightid:20201215,
+      exposures:[67972, 67973, 67974, 67975, 67987]
     },
     {
       nightid:20201216,
