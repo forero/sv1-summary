@@ -1,0 +1,12 @@
+{
+  tileid:80605,
+  nights:[
+    {
+      nightid:,
+    },
+    {
+      nightid:20201216,
+      exposures:[68290, 68291, 68292]
+    }
+   ]
+}
