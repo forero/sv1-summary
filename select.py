@@ -11,11 +11,11 @@ target  = "QSO" # this is the type of targets I am looking for
 
 tileid_nightid_tileid = []
 for tile in obs: # loop over the list of tiles
-    tileid = tile["tileid"]
-    if target in tile["targets"]: # check that "QSO" is included in the targets
-        for night in tile["nights"]: # iterate over the list of nights
+    tileid = tile["TILEID"]
+    if target in tile["TARGETS"]: # check that "QSO" is included in the targets
+        for night in tile["NIGHTS"]: # iterate over the list of nights
             # make a new string that combines tileid_nightid_expid
-            s = [str(tileid)+"_"+str(night["nightid"])+'_'+str(i) for i in night["expid"]]
+            s = [str(tileid)+"_"+str(night["NIGHTID"])+'_'+str(i) for i in night["EXPID"]]
             tileid_nightid_tileid += s
 
 #print the list of tileid_nightid_tileid
