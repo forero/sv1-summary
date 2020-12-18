@@ -1,6 +1,8 @@
 [
   {
     "tileid":80605,
+    "RA": 36.448,
+    "DEC": -4.601,
     "targets":"QSO+LRG",
     "nights":[
       {
@@ -19,6 +21,8 @@
   },
   {
     "tileid":80606,
+    "RA": 36.448,
+    "DEC": -4.501,
     "targets":"ELG",
     "nights":[
       {
@@ -37,6 +41,8 @@
   },
   {
     "tileid":80607,
+    "RA": 106.74,
+    "DEC": 56.10,
     "targets":"QSO+LRG",
     "nights":[
       {
@@ -51,6 +57,8 @@
   },
   {
     "tileid":80608,
+    "RA": 106.74,
+    "DEC": 56.20, 
     "targets":"ELG",
     "nights":[
       {
@@ -73,6 +81,8 @@
   },
   {
     "tileid":80609,
+    "RA":150.12,
+    "DEC": 2.206,
     "targets":"QSO+LRG",
     "nights":[
       {
@@ -95,6 +105,8 @@
   },
   {
     "tileid":80610,
+    "RA":150.12,
+    "DEC":2.306,
     "targets":"ELG",
     "nights":[
       { 
@@ -113,6 +125,8 @@
   },
   {
     "tileid":80615,
+    "RA": 24.027,
+    "DEC": 31.39,
     "targets":"M33+QSO+LRG",
     "nights":[
       {
