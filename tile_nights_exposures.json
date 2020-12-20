@@ -139,7 +139,7 @@
     "TILEID":80617,
     "RA":5.0,
     "DEC":28.0,
-    "TARGETS":"BGS+MWS"
+    "TARGETS":"BGS+MWS",
     "NIGHTS":[
       {
         "NIGHTID":20201218,
